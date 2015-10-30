@@ -1,5 +1,5 @@
 {
-	"name":"chat",
+	"name":"Chat using Socket.io",
 	"version":"0.0.1",
 	"private":"true",
 	"dependencies":{
