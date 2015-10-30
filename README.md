@@ -9,4 +9,4 @@ Run $ node app.js
 
 # Functionality
 Basic chat room <br /><br />
-Whispering using /w username
+Whisper specific users by typing /w username
