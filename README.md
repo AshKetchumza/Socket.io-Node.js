@@ -8,5 +8,5 @@ CD into directory <br /><br />
 Run $ node app.js
 
 # Functionality
-Basic chat room <br /><br />
+Multi user chat room <br /><br />
 Whisper specific users by typing /w username
