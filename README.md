@@ -5,7 +5,8 @@ Basic chat app running Node.js, Socket.io and Express
 Install node.js https://nodejs.org/en/ <br /><br />
 Clone repo <br /><br />
 CD into directory <br /><br />
-Run $ node app.js
+Run $ node app.js <br /><br />
+Open browser and run localhost:3000
 
 # Functionality
 Multi user chat room <br /><br />
