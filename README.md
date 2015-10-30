@@ -10,4 +10,4 @@ Open browser and run localhost:3000
 
 # Functionality
 Multi user chat room <br /><br />
-Whisper specific users by typing /w username
+Whisper specific users by typing /w username message
